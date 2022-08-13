@@ -2,7 +2,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/chenggangzhang)
 [![Scholar Badge](https://img.shields.io/badge/Google-%230288D1?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=XrZRIy0AAAAJ)](https://scholar.google.com/citations?user=_V5z-DYAAAAJ&hl=en)
-[![Zhihu](https://img.shields.io/badge/Zhihu-%230288D1?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/)
 [![Gmail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:cgzhang@mail.imu.edu.cn)
 
 
